@@ -1,3 +1,2 @@
 # Pruebas
-Jesucristo
-305020111
+Jesucristo      305020111
